@@ -14,7 +14,7 @@ and I still publish in computational cardiology.
 - [**Mosaic**](https://manse404.github.io/webpage/projects/mosaic/): composable document-AI bricks. The pipeline and the question are both plans written as data, and every brick has to beat a BM25 baseline before it stays
 - [**Mission Control**](https://manse404.github.io/webpage/projects/mission-control/): a local dashboard for long Claude Code runs, where "done" is decided by checks that run outside the session
 - [**co-parenting-app**](https://github.com/ManSe404/co-parenting-app): a shared space for two separated parents, with a calendar, agreements and documents. Anything that concerns both parents needs the other's consent, and the database enforces it. MIT
-- [**car_scraper**](https://github.com/ManSe404/car_scraper): Car Watch flags used-car ads priced below what similar cars cost, using a gradient-boosting fair-price model
+- [**car_watcher**](https://github.com/ManSe404/car_watcher): Car Watch flags used-car ads priced below what similar cars cost, using a gradient-boosting fair-price model
 
 [All case studies →](https://manse404.github.io/webpage/projects/)
 
